@@ -1,5 +1,4 @@
 server:
   port: 7343
 
-foo: bar
-hello: world
+foo: wuzhanghai
